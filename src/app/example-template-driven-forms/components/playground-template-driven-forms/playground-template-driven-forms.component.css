@@ -1,0 +1,10 @@
+:host {
+  width: 100%;
+  background-color: snow;
+  padding: 20px;
+  margin: 5px;
+}
+
+span {
+  margin-top: 20px;
+}
